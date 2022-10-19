@@ -64,5 +64,4 @@ for (i = 0; format && format[i] != '\0'; i++)
 
        *buff_ind = 0;
        }
-
-
+       
